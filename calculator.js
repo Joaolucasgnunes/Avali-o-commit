@@ -1,5 +1,7 @@
 // retorna o valor da soma entre os dois parâmetros
-function sum(v1, v2) {}
+function sum(v1, v2) {
+    return v1 + v2;
+}
 
 // retorna o valor da subtração entre os dois parâmetros
 function sub(v1, v2) {}
@@ -13,4 +15,7 @@ function mult(v1, v2) {}
 // retorna o valor da raiz quadrada do valor recebido por parâmetro
 function square(v1) {}
 
-console.log(sum(v1, v2));
+// Exemplo de uso da função sum
+const v1 = 5; // você pode alterar esses valores para testar
+const v2 = 3; // você pode alterar esses valores para testar
+console.log(sum(v1, v2)); // deve imprimir 8
