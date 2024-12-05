@@ -17,5 +17,5 @@ $ node calculator.js
 
 ## 🤝 Contribuídores
 
-<a href="https://github.com/Camposks"><img src="https://github.com/Camposks.png" width="45" height="45"></a> &nbsp;
+<a href="https://github.com/Joaolucasgnunes"><img src="https://github.com/Joaolucasgnunes.png" width="45" height="45"></a> &nbsp;
 
